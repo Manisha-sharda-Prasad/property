@@ -1,4 +1,12 @@
 ## Summary and status
+
+- [01_sec-1-84meter.md](01_sec-1-84meter.md)
+- [02_sec-3-67meter.md](02_sec-3-67meter.md)
+- [03_sec-15-65meter.md](03_sec-15-65meter.md)
+- [04_sec-12-6meter.md](04_sec-12-6meter.md)
+- [05_sec-13-65meter.md](05_sec-13-65meter.md)
+
+---
 - Sec‑1, Plot 1022, Vasundhara	84 sqm, east‑park facing, duplex	₹1.85 Cr
 - Sec‑3, Plot 557, Vasundhara	67 sqm, east‑park facing, 3 floors	₹2.15 Cr ❌ SOLD
 - Sector 15: 65m plot, 1 floor, priced at 1.65cr
