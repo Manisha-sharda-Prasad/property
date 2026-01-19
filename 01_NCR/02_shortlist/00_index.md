@@ -1,7 +1,7 @@
 ## Summary and status
 
 - [01_sec-1-84meter.md](01_sec-1-84meter.md)
-- [02_sec-3-67meter.md](02_sec-3-67meter.md)
+- [02_sec-3-67meter.md](02_sec-3-67meter.md) ❌
 - [03_sec-15-65meter.md](03_sec-15-65meter.md)
 - [04_sec-12-6meter.md](04_sec-12-6meter.md)
 - [05_sec-13-65meter.md](05_sec-13-65meter.md)
