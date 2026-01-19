@@ -1,7 +1,8 @@
-# property-3
+# property-1
+- **status** : 
 ## Location
 - Address:
-- google map
+- google map : https://maps.app.goo.gl/yH6toCAS74LunR4B8
 
 ## price
 - All-in-one :

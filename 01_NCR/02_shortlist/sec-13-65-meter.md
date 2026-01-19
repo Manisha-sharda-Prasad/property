@@ -1,4 +1,5 @@
 # property-3
+- **status** :
 ## Location
 - Address:
 - google map
@@ -28,5 +29,9 @@
 
 ---
 ## Special Notes
+
+---
+## Pics
+![img_13.png](../../98_temp/99_images/properties/img_13.png)
 
 

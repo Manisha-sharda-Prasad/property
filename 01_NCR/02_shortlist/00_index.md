@@ -1,10 +1,10 @@
 ## Summary and status
 
-- [01_sec-1-84meter.md](01_sec-1-84meter.md)
-- [02_sec-3-67meter.md](02_sec-3-67meter.md) ❌
-- [03_sec-15-65meter.md](03_sec-15-65meter.md)
-- [04_sec-12-6meter.md](04_sec-12-6meter.md)
-- [05_sec-13-65meter.md](05_sec-13-65meter.md)
+- [01_sec-1-84meter.md](sec-1-84-meter.md)
+- [02_sec-3-67meter.md](sec-3-67-meter❌.md) ❌
+- [03_sec-15-65meter.md](sec-15-65-meter.md)
+- [04_sec-12-6meter.md](sec-12-65-meter.md)
+- [05_sec-13-65meter.md](sec-13-65-meter.md)
 
 ---
 - Sec‑1, Plot 1022, Vasundhara	84 sqm, east‑park facing, duplex	₹1.85 Cr

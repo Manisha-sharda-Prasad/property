@@ -1,7 +1,8 @@
-# property-1
+# property-2 
+- **status** : SOLD ❌
 ## Location
 - Address:
-- google map : https://maps.app.goo.gl/yH6toCAS74LunR4B8
+- google map: 
 
 ## price
 - All-in-one :

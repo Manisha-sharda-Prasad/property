@@ -52,3 +52,7 @@ Payment is completed online during VFS registration, and only after payment you 
 - Courier ORIGINAL POA to India
 - Lawyer does stamping/adjudication in UP (₹100–₹500)
   📌 Only after stamping → POA is fully usable for registration.
+
+---
+
+![rajiv-jain.jpeg](../../98_temp/99_images/properties/rajiv-jain.jpeg)
