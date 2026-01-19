@@ -32,6 +32,6 @@
 
 ---
 ## pics
-![img_12.png](../../98_temp/99_images/properties/img_12.png)
+![img_12.jpeg](../../98_temp/99_images/properties/img_12.jpeg)
 
 
