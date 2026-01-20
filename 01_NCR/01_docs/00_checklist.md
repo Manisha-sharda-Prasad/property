@@ -1,13 +1,20 @@
 # Checklist (By manisha 🚺)
-## 📚Reference/s
-- https://visa.vfsglobal.com/usa/en/ind/miscellaneous-services
-- https://www.reddit.com/r/nri/comments/1n8v2d8/sending_power_of_attorney_document_from/
-- https://upavp.in/
-- https://gdaghaziabad.in/plan-approval-system/
-- https://gdaghaziabad.in/
-- https://upbhulekh.gov.in/#/districts_list
-- https://www.up-rera.in/index
+## 📚Reference 1 ✔️
+- Stamp/registration/Encumbrance:
+  - https://igrsup.gov.in/igrsup/defaultAction.action#igrsupHome
+  - signed up -> mann_icha D************* | `9625027466` | p4m@g
+  - https://igrsup.gov.in/igrsup/knowyourofficeentry
+    - **SR office** for Vasundhara sector 10 is **sadar 4** 👈🏻
+- **map**: 
+  - rural: https://upbhunaksha.gov.in/home | https://upbhulekh.gov.in/#/districts_list
+  - urban: https://e-nagarsewaup.gov.in/ulbappsmain/propertySearch
 
+## 📚Reference 2
+- RERA: https://www.up-rera.in/index (if buying builder project)
+- https://upavp.in/
+- gda
+    - https://gdaghaziabad.in/plan-approval-system/
+    - https://gdaghaziabad.in/
 ---
 ## ✔️A. Document to check:
 ### Documents list

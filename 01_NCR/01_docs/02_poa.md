@@ -1,4 +1,8 @@
 # POA
+## reference
+- https://visa.vfsglobal.com/usa/en/ind/miscellaneous-services
+- https://www.reddit.com/r/nri/comments/1n8v2d8/sending_power_of_attorney_document_from/
+
 ## Draft Notes
 
 1️⃣Indian lawyer drafts- Special Power of Attorney and sends pdf.
