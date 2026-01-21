@@ -2,8 +2,9 @@
 
 ![img.png](98_temp/99_images/logo/img.png)
 ## NCR
-- [docs](01_NCR/01_docs)
-- [shortlist](01_NCR/02_shortlist)
+- [NCR docs](01_NCR/01_docs)
+- [NCR shortlist](01_NCR/02_shortlist)
+- [NCR checklist by manisha ✔️](01_NCR/01_docs/00_checklist.md)
 
 ---
 ## Pune

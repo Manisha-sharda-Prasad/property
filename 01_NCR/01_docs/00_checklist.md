@@ -1,10 +1,12 @@
 # Checklist (By manisha 🚺)
 ## 📚Reference 1 ✔️
+- Prohibited property: https://igrsup.gov.in/igrsup/bannedPropertiesList?districtCode=140&tehsil_code=00739
 - Stamp/registration/Encumbrance:
   - https://igrsup.gov.in/igrsup/defaultAction.action#igrsupHome
   - signed up -> mann_icha D************* | `9625027466` | p4m@g
   - https://igrsup.gov.in/igrsup/knowyourofficeentry
     - **SR office** for Vasundhara sector 10 is **sadar 4** 👈🏻
+  - https://igrsup.gov.in/igrsup/Information 👈🏻
 - **map**: 
   - rural: https://upbhunaksha.gov.in/home | https://upbhulekh.gov.in/#/districts_list
   - urban: https://e-nagarsewaup.gov.in/ulbappsmain/propertySearch
