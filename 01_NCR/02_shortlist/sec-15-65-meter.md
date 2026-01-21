@@ -1,8 +1,8 @@
 # property-3
 - **status** :
 ## Location
-- Address:
-- google map
+- Address: plot 494, sec-15, Vasundhara, Ghaziabad, U.P
+- google map:
 
 ## price
 - All-in-one :
@@ -29,6 +29,9 @@
 
 ---
 ## Special Notes
+- how can view online docs from the USA ?
+- Needs to transferred to wife, first.
+- residential kind, park facing :)
 
 ---
 ## pics
