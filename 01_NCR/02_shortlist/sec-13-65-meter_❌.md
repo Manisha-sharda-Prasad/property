@@ -1,8 +1,8 @@
 # property-3
-- **status** :
+- **status** : `Did not like`
 ## Location
 - Address:
-- google map
+- google map: 
 
 ## price
 - All-in-one :
@@ -29,6 +29,9 @@
 
 ---
 ## Special Notes
+
+---
+## Negotiation key points
 
 ---
 ## Pics

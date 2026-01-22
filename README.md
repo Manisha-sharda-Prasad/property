@@ -4,7 +4,7 @@
 ## NCR
 - [NCR docs](01_NCR/01_docs)
 - [NCR shortlist](01_NCR/02_shortlist)
-- [NCR checklist by manisha ✔️](01_NCR/01_docs/00_checklist.md)
+- [NCR checklist by manisha ✔️](01_NCR/01_docs/00_checklist_manisha.md)
 
 ---
 ## Pune

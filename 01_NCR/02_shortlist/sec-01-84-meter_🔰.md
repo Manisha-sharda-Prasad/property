@@ -1,5 +1,5 @@
 # property-1
-- **status** : checking
+- **status** : `checking`
 ## Location
 - Address:  Plot 1022, Sec-1, Vasundhara, ghaziabad, Uttar Pradesh
 - google map : https://maps.app.goo.gl/yH6toCAS74LunR4B8

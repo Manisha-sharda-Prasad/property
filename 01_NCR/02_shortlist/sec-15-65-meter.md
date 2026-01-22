@@ -34,6 +34,10 @@
 - residential kind, park facing :)
 
 ---
+## Negotiation key points
+- ...
+
+---
 ## pics
 ![img_15.png](../../98_temp/99_images/properties/img_15.png)
 

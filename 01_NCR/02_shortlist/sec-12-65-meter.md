@@ -31,6 +31,9 @@
 ## Special Notes
 
 ---
+## Negotiation key points
+
+---
 ## pics
 ![img_12.jpeg](../../98_temp/99_images/properties/img_12.jpeg)
 
