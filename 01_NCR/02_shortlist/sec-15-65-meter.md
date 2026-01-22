@@ -16,12 +16,13 @@
 ---
 ## Research
 ### Pros
-- ...
-- ...
+- Gated community, 
+- park facing
+- built - 1 floor
 
 ### cons
-- ...
-- ...
+- 
+- 
 
 ### Docs to check
 - master list / common : [01_master-doc-list.md](../01_docs/01_master-doc-list.md)
