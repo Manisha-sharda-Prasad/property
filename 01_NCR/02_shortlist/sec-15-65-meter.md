@@ -31,8 +31,9 @@
 ---
 ## Special Notes
 - how can view online docs from the USA ?
-- Needs to transferred to wife, first.
+- Needs to transferred to wife first, 2- 3 months
 - residential kind, park facing :)
+- 1.5 km from sec 10-c
 
 ---
 ## Negotiation key points
