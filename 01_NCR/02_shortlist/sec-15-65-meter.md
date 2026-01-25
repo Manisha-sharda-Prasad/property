@@ -1,11 +1,11 @@
 # property-3
 - **status** :
 ## Location
-- Address: plot 494, sec-15, Vasundhara, Ghaziabad, U.P
+- Address: 494, 15, Sector 15, Vasundhara, Budhwatika, Ghaziabad, Uttar Pradesh 201012, India
 - google map:
 
 ## price
-- All-in-one :
+- All-in-one : 1.65 cr
     - base price:
     - registry:
     - stamp duty:
