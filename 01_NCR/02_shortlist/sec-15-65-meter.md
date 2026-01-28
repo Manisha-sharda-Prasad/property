@@ -22,7 +22,7 @@
 - built - 1 floor
 
 ### cons
-- 
+- 2-3 months wait
 - 
 
 ### Docs to check
