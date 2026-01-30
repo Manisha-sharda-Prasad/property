@@ -23,7 +23,9 @@
 
 ### cons
 - 2-3 months wait
-- 
+- north- west facing
+- West-facing catches sun in the afternoon and evening -stronger heat, less beneficial in hot seasons.
+- small park
 
 ### Docs to check
 - master list / common : [01_master-doc-list.md](../01_docs/01_master-doc-list.md)
@@ -38,7 +40,17 @@
 
 ---
 ## Negotiation key points
-- ...
+- Age of Construction, “How old is the construction
+ - 10+ years → plumbing, wiring, seepage risk
+ - Sun-exposed walls (west) → thermal damage
+ -  waterproofing, wiring upgrades, and heat insulation.
+   
+- Use these :
+Factor	Typical Adjustment
+Non-preferred sun facing-	5–10%
+Narrow road / blockage-	₹3–10L
+Older construction-	₹5–15L
+👉 On a ₹1.5–2 Cr house, this can justify ₹15–30 lakh negotiation if stacked properly.
 
 ---
 ## pics
