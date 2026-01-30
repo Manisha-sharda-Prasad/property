@@ -2,7 +2,7 @@
 - **status** :
 ## Location
 - Address: 494, 15, Sector 15, Vasundhara, Budhwatika, Ghaziabad, Uttar Pradesh 201012, India
-- 15/499, Sector 15, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India
+- optional (for idea)- 15/499, Sector 15, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India
 - google map: https://www.google.com/maps/place/Sai+Mandir/@28.6505446,77.3598774,3a,75y,90t/data=!3m7!1e1!3m5!1sL__vLFHZvsEx2nN5OhaGXw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DL__vLFHZvsEx2nN5OhaGXw%26yaw%3D0!7i16384!8i8192!4m6!3m5!1s0x390cfab9b9c2b4cd:0xbbaef1d28288fe3a!8m2!3d28.6546999!4d77.3592357!16s%2Fg%2F124swqlt0?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D
 
 ## price
